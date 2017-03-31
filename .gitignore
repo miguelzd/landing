@@ -1,0 +1,4 @@
+# Archivos a Ignorar del MAC
+# ==================================
+
+*.DS_Store
